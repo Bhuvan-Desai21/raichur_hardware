@@ -34,20 +34,20 @@ const data = {
   // footer reach
   footerReach: [
     {
-      stat: "21000",
-      description: "lorem ipsum dolor",
+      stat: "2,00,000",
+      description: "Customers served",
     },
     {
-      stat: "21000",
-      description: "lorem ipsum dolor",
+      stat: "10,000",
+      description: "Products available",
     },
     {
-      stat: "21000",
-      description: "lorem ipsum dolor",
+      stat: "1000+",
+      description: "Professionals trained",
     },
     {
-      stat: "21000",
-      description: "lorem ipsum dolor",
+      stat: "100",
+      description: "Meetings with Carpenters, Mechanics, Plumbers, and Electricians",
     },
   ],
 
@@ -62,7 +62,7 @@ const data = {
 
   // privacy
   privacy:
-    "https://docs.google.com/document/d/1WtNP0H-Hmpv0vuaGrdZ3XcHm1imepaabxyEW-w7n2Ao/edit?usp=sharing",
+    "https://docs.google.com/document/d/1RLOMlHDvVqiccSbNTNgHGHrejgediOC1GnKbh2uKzDA/edit?usp=sharing",
 
   // return policy
   returnAndCancellationPolicy:
