@@ -178,7 +178,7 @@ const data = {
       name: "Alex Smith",
       message:
         "I was hesitant at first, but this product has exceeded all my expectations. It's a game-changer!",
-      image: "",
+      imae: "",
     },
   ],
 
